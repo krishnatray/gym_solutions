@@ -10,4 +10,4 @@ Solves the [Mountain Car](https://gymnasium.farama.org/environments/classic_cont
 Companion Youtube video: [Mountain Car Tutorial](https://youtu.be/_SWnNhM5w-g)
 
 ## Gymnasium library
-The [Gymnasium library](https://gymnasium.farama.org/) is support on Linux and Mac OS. If you have trouble installing on Windows, check out my guide [Install Gymnasium on Windows](https://youtu.be/gMgj4pSHLww)
+The [Gymnasium library](https://gymnasium.farama.org/) is supported on Linux and Mac OS. If you have trouble installing on Windows, check out my guide [Install Gymnasium on Windows](https://youtu.be/gMgj4pSHLww)
