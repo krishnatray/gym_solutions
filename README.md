@@ -8,3 +8,6 @@ Companion Youtube video: [Frozen Lake 8x8 Tutorial](https://youtu.be/ZhoIgo3qqLU
 **mountain_car_q.py**  
 Solves the [Mountain Car](https://gymnasium.farama.org/environments/classic_control/mountain_car/) environment with Q-Learning.  
 Companion Youtube video: [Mountain Car Tutorial](https://youtu.be/_SWnNhM5w-g)
+
+## Gymnasium library
+The [Gymnasium library](https://gymnasium.farama.org/) is support on Linux and Mac OS. If you have trouble installing on Windows, check out my guide [Install Gymnasium on Windows](https://youtu.be/gMgj4pSHLww)
